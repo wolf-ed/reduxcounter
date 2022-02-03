@@ -21,6 +21,12 @@
   margin: 2rem 0;
   font-weight: bold;
 }
-.counter button {
+
+button {
   margin: 1rem;
+}
+
+input {
+  display: block;
+  margin: 1rem auto;
 }
